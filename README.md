@@ -1,14 +1,14 @@
 # Ex02 Django ORM Web Application
 ## Date: 04-02-2026
 
-## AIM
+## AIM:
 To develop a Django application to manage an online food delivery platform like Zomato/Swiggy using Object Relational Mapping (ORM).
 
-## ENTITY RELATIONSHIP DIAGRAM
+## ENTITY RELATIONSHIP DIAGRAM:
 
 
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
 Clone the problem from GitHub
@@ -22,7 +22,7 @@ Enter the code for admin.py and models.py
 ### STEP 4:
 Execute Django admin and create details for 10 books
 
-## PROGRAM
+## PROGRAM:
 ### admin.py
 ```python
 from django.contrib import admin
@@ -52,16 +52,16 @@ class Order(models.Model):
 ```
 
 
-## OUTPUT
+## OUTPUT:
 
 <img width="1914" height="836" alt="image" src="https://github.com/user-attachments/assets/bdf5ea84-04fa-4d9a-9eff-7470fbf4c573" />
 
 
 
-## RESULT
-Thus the program for creating a database using ORM hass been executed successfully
+## RESULT:
+Thus, the program for creating a database using ORM has been executed successfully.
 
-<hr/>
+
 
 #### Name : ASWIN B
 #### Register Number : 212224110007
