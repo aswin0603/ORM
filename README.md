@@ -63,5 +63,5 @@ Thus the program for creating a database using ORM hass been executed successful
 
 <hr/>
 
-#### NAME : ASWIN B
-#### REGISTER NUMBER : 212224110007
+#### Name : ASWIN B
+#### Register Number : 212224110007
