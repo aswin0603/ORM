@@ -61,7 +61,7 @@ class Order(models.Model):
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
 
+</hr>
 
-<hr>
 ### NAME : ASWIN B
 ### REGISTER NUMBER : 212224110007
