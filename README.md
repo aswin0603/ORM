@@ -6,6 +6,7 @@ To develop a Django application to manage an online food delivery platform like 
 
 ## ENTITY RELATIONSHIP DIAGRAM:
 
+<img width="4050" height="3240" alt="ER Diagram" src="https://github.com/user-attachments/assets/3349177b-fb29-4dd8-8137-f688f5bab52c" />
 
 
 ## DESIGN STEPS:
